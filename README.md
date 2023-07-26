@@ -3,7 +3,7 @@
 ## A Full Stack Developer from Cape Town, South Africa
 
 - 💬 Ask me about anything! 
-- 📫 Feel free to contact me at : https://www.linkedin.com/in/SaajidParker/
+- 📫 Feel free to contact me at : https://www.linkedin.com/in/saajid-parker/
 ## 
 <h3 align="left">The Languages and Tools I have used:</h3>
 
