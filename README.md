@@ -1,4 +1,4 @@
-# Hi there, Welcome to my Github Profile!👋
+# Hi there, Welcome to my GitHub Profile!👋
 ## I'm Saajid Parker ⚡
 ## A Software Developer from Cape Town, South Africa 🇿🇦
 
